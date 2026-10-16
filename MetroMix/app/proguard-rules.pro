@@ -1,0 +1,3 @@
+-keep class com.metrolist.remix.innertube.** { *; }
+-keepattributes *Annotation*,InnerClasses,Signature
+-dontwarn okhttp3.**
